@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DesktopBuddy</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 13 Jun 2026 14:23:10 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy-1.1-2.zip" length="3102641" type="application/octet-stream" sparkle:edSignature="aqs8YpVfx1C7EDgWuKHRF8gyNqe0YIVUCe5k3DJtXIlSrOPDNUyuDIlpXUGqiokZcwi0QHXMZpQcTKMLpqVeCA=="/>
+        </item>
+    </channel>
+</rss>
