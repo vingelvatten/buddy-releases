@@ -3,6 +3,17 @@
     <channel>
         <title>DesktopBuddy</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sat, 13 Jun 2026 15:27:54 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy-1.2-3.zip" length="3114300" type="application/octet-stream" sparkle:edSignature="TIOcsfSyb011xjQAw5SYVl31jDwUXxPrqWfue8dDcAcMD14ScWI0Huh2ngPrm7FIiuLKi7yZzhCDxEFccFNXBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy3-2.delta" sparkle:deltaFrom="2" length="121386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WluL+vwHwKaD2dqelcPZTuSerkULZb1X2qguiv4psn9KawVUx/8GiPj3kwEPiJtnY1tEvVLXZzT1CkDK4HLDAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sat, 13 Jun 2026 14:23:10 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
