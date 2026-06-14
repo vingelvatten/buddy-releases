@@ -3,6 +3,21 @@
     <channel>
         <title>DesktopBuddy</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Sun, 14 Jun 2026 12:36:14 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy-1.6-7.zip" length="3198284" type="application/octet-stream" sparkle:edSignature="EL3cEUXBFBlpKxQqPb+0i1TOIfbEQpCBB4BJkL27Fq4ZpEt1PP8yeElT1u+R/b4UbqWtxUBws1QfUU6EbKuxCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy7-6.delta" sparkle:deltaFrom="6" length="93450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O9yfSeCK3cBvBx18QQuegF0FXuHNWiDUzw6u3LgzENfawVgzubOkPr63hdyBs1Hmt2RpqXXncJTzxzOqCv6gBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy7-5.delta" sparkle:deltaFrom="5" length="130954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dnh6CSn5tpigV8VU/bqm7uYXPngrN/uxW/g/p0Tl9kh7fAUFIJ9I5iI0wflsF2znZNRNJO3h5f7BbN+9cOEYCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy7-4.delta" sparkle:deltaFrom="4" length="187958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K7NKotToSoTNHIaAeWwDSU6umdUFgTmfALsvBs6PC0sM6rHv0lIa2xGJdK7dVDr52lp6O9G72ndYYTFbccuFAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy7-3.delta" sparkle:deltaFrom="3" length="219214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YXZ+R2T7BKdb3yRogLky5E8q333Pat3g5tDgwBz/eecw8r/10WdReDJbiWHrr2kDt99zEtt9RtNbhlNo60/sAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy7-2.delta" sparkle:deltaFrom="2" length="223022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xPmR/cora82groGP45Q6JaipU7d2Ko1T8g0pNsHFE4n8qQvPUC0WlkD3A0dln+CdoLDsovyUks+7ZsdosGlECw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Sun, 14 Jun 2026 12:22:30 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -27,18 +42,6 @@
                 <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy5-4.delta" sparkle:deltaFrom="4" length="169154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z6gav7qx2cVqFjzaes0DCRd9f9R++dcJASTDZ19ryHoH/B2J/Ywyq6CRFVVLDSRiQtj+8FZJrIk/3dlGv4EvDQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy5-3.delta" sparkle:deltaFrom="3" length="198230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lTMS3cGc0VCllJD+4FeKfrE6jYoBmJZsq/eh6S/ovRBaOT4+r160+kbyH+yQF3DvMJJ3TFBTQdx5fjpadpadBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy5-2.delta" sparkle:deltaFrom="2" length="209966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cWwj4WJKoHrQ42YAFU0NVlNuktzL9Cp9Mn2bdinAL7W4Eoe9Pm6zejim91u6J+prjvQg0V3ZN8L3wBivpTqSBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3</title>
-            <pubDate>Sat, 13 Jun 2026 20:56:14 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy-1.3-4.zip" length="3149510" type="application/octet-stream" sparkle:edSignature="lHpdD4gYlAsbNjQx6Unb3tWuVOYUKXGVvF6k0o/JkY9sxj9XsDVXtZNCxW9KMAcl1wBOHyVm6Liyx1SqisLWDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy4-3.delta" sparkle:deltaFrom="3" length="147254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1feDjb6nmAsWbxL8GqYkpMVPT5oyKQhPFSxQoaq5eb4TL04Ucu1ImsFcEAqZN/SZXFMssnUWWuh+djBIQHSqDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/vingelvatten/buddy-releases/main/DesktopBuddy4-2.delta" sparkle:deltaFrom="2" length="166558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TOddc9otwZoBsyXA/LOYgmhEoQLUTwHIKfInQpDJxayQt4oFRugZkuXXN8vtyoETmWQvxyHUR9OZ46TPBJWUCw=="/>
             </sparkle:deltas>
         </item>
     </channel>
